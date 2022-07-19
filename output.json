@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Devdutt",
+    "email": "devdutt@gmail.com",
+    "mobile": "7999932648",
+    "gender": "Male",
+    "age": 27,
+    "nationality": "Indian"
+  },
+  {
+    "name": "Rushikesh",
+    "email": "rushikesh@gmail.com",
+    "mobile": "2435678911",
+    "gender": "Male",
+    "age": 20,
+    "nationality": "Indian"
+  }
+]
